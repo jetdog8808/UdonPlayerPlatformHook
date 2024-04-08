@@ -34,4 +34,4 @@ https://vrchat.com/home/world/wrld_6eaf7a85-ffcb-4765-a9b6-c7e435802079
  
  * [VRCSDK3-Udon](https://vrchat.com/home/download) v.2022.02.16.19.13+
  * [VRChat-Community / Merlins Udon Sharp](https://github.com/vrchat-community/UdonSharp) (v0.20.3, v1.0)
- * Unity 2019.4.30f1+
+ * Unity 2022.3.6f1+
